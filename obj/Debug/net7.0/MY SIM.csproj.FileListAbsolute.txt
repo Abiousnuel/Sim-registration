@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\MY SIM\bin\Debug\net7.0\MY SIM.exe
+C:\Users\user\Desktop\MY SIM\bin\Debug\net7.0\MY SIM.deps.json
+C:\Users\user\Desktop\MY SIM\bin\Debug\net7.0\MY SIM.runtimeconfig.json
+C:\Users\user\Desktop\MY SIM\bin\Debug\net7.0\MY SIM.dll
+C:\Users\user\Desktop\MY SIM\bin\Debug\net7.0\MY SIM.pdb
+C:\Users\user\Desktop\MY SIM\obj\Debug\net7.0\MY SIM.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\MY SIM\obj\Debug\net7.0\MY SIM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\MY SIM\obj\Debug\net7.0\MY SIM.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\MY SIM\obj\Debug\net7.0\MY SIM.AssemblyInfo.cs
+C:\Users\user\Desktop\MY SIM\obj\Debug\net7.0\MY SIM.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MY SIM\obj\Debug\net7.0\MY SIM.dll
+C:\Users\user\Desktop\MY SIM\obj\Debug\net7.0\refint\MY SIM.dll
+C:\Users\user\Desktop\MY SIM\obj\Debug\net7.0\MY SIM.pdb
+C:\Users\user\Desktop\MY SIM\obj\Debug\net7.0\MY SIM.genruntimeconfig.cache
+C:\Users\user\Desktop\MY SIM\obj\Debug\net7.0\ref\MY SIM.dll
